@@ -1,3 +1,6 @@
+"""
+ポジション別の打撃成績を表します
+"""
 import pandas as pd
 import matplotlib.pyplot as plt
 

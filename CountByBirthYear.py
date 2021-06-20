@@ -1,7 +1,6 @@
 """
-西武ライオンズの選手を年齢別にグラフ表示します
+西武ライオンズの選手(2021年)を年齢別にグラフ表示します
 """
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plot
