@@ -1,3 +1,7 @@
+"""
+西武ライオンズの選手の打撃成績
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

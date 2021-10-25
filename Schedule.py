@@ -1,3 +1,8 @@
+"""
+Data/スケジュール以下のファイルの読み込み
+加工して返す
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import glob

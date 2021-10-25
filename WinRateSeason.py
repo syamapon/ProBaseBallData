@@ -1,3 +1,7 @@
+"""
+2020年シーズンの西武の勝率遷移
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

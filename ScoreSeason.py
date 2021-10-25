@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 
 dfSeazon2020 = pd.read_csv('Data/シーズン勝敗_2020.csv')
 
+"""
+
+"""
+
 def score(x, teamName):
     if x.ホーム == teamName:
         return x.ホーム得点

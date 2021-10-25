@@ -1,3 +1,7 @@
+"""
+西武ライオンズ・山川選手の年度別本塁打数
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

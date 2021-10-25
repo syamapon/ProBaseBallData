@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plot
 from datetime import datetime
 
-dfSeibu = pd.read_csv('Data/西武選手_2021.csv')
+dfSeibu = pd.read_csv('Data/選手一覧/西武選手_2021.csv')
 seYears = dfSeibu['生年月日'].str.split(pat='.', expand=True)[0]
 seAges = datetime.now().year - seYears.astype(int)
 dfYears = pd.DataFrame({'ages':seAges})

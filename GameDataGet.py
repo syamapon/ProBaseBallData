@@ -1,3 +1,7 @@
+"""
+ゲームスコアデータをWEBから取得
+"""
+
 import pandas as pd
 import datetime as dt
 
